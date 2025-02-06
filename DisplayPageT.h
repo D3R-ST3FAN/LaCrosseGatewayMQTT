@@ -1,4 +1,4 @@
-﻿#ifndef _DISPLAY_PAGE_T_h
+#ifndef _DISPLAY_PAGE_T_h
 #define _DISPLAY_PAGE_T_h
 
 #include "Arduino.h"
